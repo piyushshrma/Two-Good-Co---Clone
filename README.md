@@ -27,7 +27,7 @@ Two Good Co is a website showcasing various products and services offered by the
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/two-good-co.git
+    git clone https://github.com/your-piyushshrma/two-good-co.git
     ```
 
 2. Navigate to the project directory:
